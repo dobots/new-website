@@ -1,0 +1,19 @@
+
+---Downloaded files---
+The import files for: Demo content were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = https://test.dobots.nl
+Data file = /var/www/vhosts/test.dobots.nl/httpdocs/wp-content/themes/sydney/demo-content/demo-content.xml
+Widget file = /var/www/vhosts/test.dobots.nl/httpdocs/wp-content/themes/sydney/demo-content/demo-widgets.wie
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+
