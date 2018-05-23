@@ -9,19 +9,19 @@
 
 <channel>
 	<title>DoBots</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
-	<description>Building Brains</description>
+	<atom:link href="/Test-dobots/feed/" rel="self" type="application/rss+xml" />
+	<link>/Test-dobots/</link>
+	<description></description>
 	<lastBuildDate>Tue, 01 May 2018 09:14:49 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.5</generator>
+	<generator>https://wordpress.org/?v=4.9.6</generator>
 
 <image>
-	<url>/wp-content/uploads/2018/04/cropped-Logo-Dobots-klein-e1523436381835-32x32.png</url>
+	<url>/Test-dobots/wp-content/uploads/2018/04/cropped-Logo-Dobots-klein-e1523436381835-32x32.png</url>
 	<title>DoBots</title>
-	<link>/</link>
+	<link>/Test-dobots/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
