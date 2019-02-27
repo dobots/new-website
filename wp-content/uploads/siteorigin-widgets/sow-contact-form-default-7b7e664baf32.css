@@ -66,11 +66,13 @@
 .so-widget-sow-contact-form-default-7b7e664baf32 .sow-form-field.sow-form-field-checkboxes ul label,
 .so-widget-sow-contact-form-default-7b7e664baf32 .sow-form-field.sow-form-field-radio ul label {
   margin-bottom: 0;
+  display: flex;
+  align-items: center;
 }
 .so-widget-sow-contact-form-default-7b7e664baf32 .sow-form-field.sow-form-field-checkboxes ul input,
 .so-widget-sow-contact-form-default-7b7e664baf32 .sow-form-field.sow-form-field-radio ul input {
   float: left;
-  margin: 0.4em 0.5em 0 0;
+  margin-right: 0.5em;
   height: auto;
 }
 .so-widget-sow-contact-form-default-7b7e664baf32 .sow-form-field .sow-form-field-description {
