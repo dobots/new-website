@@ -9,10 +9,10 @@
 	<title>Comments for DoBots</title>
 	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
-	<description></description>
-	<lastBuildDate>Wed, 27 Feb 2019 15:10:43 +0000</lastBuildDate>
+	<description>One stop shop for all robotic solutions</description>
+	<lastBuildDate>Tue, 02 Apr 2019 12:40:07 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.9</generator>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
 </channel>
 </rss>
